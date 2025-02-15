@@ -1,0 +1,7 @@
+name: "test-mod"
+displayName: "someRandomMod"
+author: malteerik
+description: "description goes here"
+version: "1.0"
+minGameVersion: "146"
+hidden: false
