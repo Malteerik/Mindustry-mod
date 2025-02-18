@@ -1,0 +1,10 @@
+{
+"type": "item",
+"name": "ball",
+"description": "description goes here",
+"research": "copper",
+"flammability": 0.1,
+"explosiveness": 0,
+"radioactivity":0,
+"charge":0,
+}

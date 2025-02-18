@@ -1,0 +1,33 @@
+{
+    "type": "genericCrafter",
+    "name": "ingot-melter",
+    "description": "melts ingots",
+    "size": 3,
+    "health": 300,
+    "category": "crafting",
+    "itemCapacity": 50,
+    "draw":{
+    "layer": "bottom",
+    },
+    "requirements": [
+        { "item": "copper", "amount": 100 },
+        { "item": "lead", "amount": 50 }
+    ],
+    "outputItem": { "item": "silver-ingot", "amount": 1 },
+    "craftTime": 60,
+    "consumes": {
+    "items":[
+         { "item": "silver", "amount": 2 },
+        ],
+
+    "power": 1.5,
+
+    },
+    "research": {
+        "parent": "graphite-press",
+        "requirements": [
+            { "item": "copper", "amount": 200 },
+            { "item": "lead", "amount": 100 }
+        ]
+    }
+}
