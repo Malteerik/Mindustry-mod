@@ -1,0 +1,10 @@
+{
+    "type": "oreBlock",
+    "name": "ore-silver",
+    "itemDrop": "silver",
+    "variants": 3,
+    "mapColor": "d35400",
+    "oreDefault": true,
+    "oreScale": 23.87,
+"oreThreshold": 0.833
+}

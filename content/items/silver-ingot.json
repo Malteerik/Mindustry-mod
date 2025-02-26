@@ -1,0 +1,10 @@
+{
+"type": "item",
+"name": "silver-ingot",
+"description": "description goes here",
+"research": "silver",
+"flammability": 0,
+"explosiveness": 0,
+"radioactivity":0,
+"charge":0,
+}

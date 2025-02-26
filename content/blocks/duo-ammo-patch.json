@@ -1,0 +1,25 @@
+{
+
+"type": "itemTurret",
+"name": "duo",
+"ammoTypes": {
+          "thorium":{
+                          "damage":12,
+                          "reloadMultiplier":1.0,
+                          "status": "sapped",
+                          "statusDuration": 300
+
+
+
+
+                         }
+
+
+
+
+        }
+
+
+
+
+}

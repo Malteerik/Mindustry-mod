@@ -1,0 +1,11 @@
+{
+"type": "item",
+"name": "Silver",
+"description": "description goes here",
+"hardness":3,
+"research": "copper",
+"flammability": 0,
+"explosiveness": 0,
+"radioactivity":0,
+"charge":0,
+}
